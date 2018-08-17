@@ -1,6 +1,6 @@
-1.����ͳһʹ��UTF-8
-2.���ݿ�ʹ��Mysql
-3.������ʹ��Tomcat9+Nginx
-4.JDK�汾ʹ��1.8
-5.ʹ��Maven+Git������Ŀ
-6.��̨ʹ��spring-boot-mybatis��ܼ���
+1.编码统一使用UTF-8
+2.数据库使用Mysql
+3.服务器使用Tomcat9+Nginx
+4.JDK版本使用1.8
+5.使用Maven+Git管理项目
+6.后台使用spring-boot-mybatis框架技术
