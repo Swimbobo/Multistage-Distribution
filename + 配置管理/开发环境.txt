@@ -4,3 +4,4 @@
 4.JDK版本使用1.8
 5.使用Maven+Git管理项目
 6.后台使用spring-boot-mybatis框架技术
+7.GitHub：https://github.com/Swimbobo/Multistage-Distribution
